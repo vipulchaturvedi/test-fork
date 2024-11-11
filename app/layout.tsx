@@ -6,8 +6,8 @@ import { ToasterProvider } from '@/components/toaster-provider'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Infinite AI",
-  description: "Infinite Ai is a platform that can generate images, code, translation and chat with cloudflare's open models.",
+  title: "Vipul AI",
+  description: "Vipul AI is a platform that can generate images, code, translation and chat with cloudflare's open models.",
 };
 
 export default function RootLayout({
